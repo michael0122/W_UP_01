@@ -86,5 +86,6 @@ it looks like skill players do more than line players
 
 # Discussion and Conclusion
 
-<!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+<!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+my summery is that skill players do more pushups than line players.  the bottom of the skilled players box was higher than the top of the line players box. the average number of pushups that the skilled players were able to do was close to 51 and the average number the line players were able to do was the one third of what the skilled players were able to do. the results of the t-test gave a probability of less than one in ten thousand  
